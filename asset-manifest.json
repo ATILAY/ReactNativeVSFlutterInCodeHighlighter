@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/RNandFlutter/static/css/main.8c5550ab.chunk.css",
+    "main.js": "/RNandFlutter/static/js/main.e9ec8afb.chunk.js",
+    "main.js.map": "/RNandFlutter/static/js/main.e9ec8afb.chunk.js.map",
+    "runtime-main.js": "/RNandFlutter/static/js/runtime-main.764a674e.js",
+    "runtime-main.js.map": "/RNandFlutter/static/js/runtime-main.764a674e.js.map",
+    "static/js/2.96e96689.chunk.js": "/RNandFlutter/static/js/2.96e96689.chunk.js",
+    "static/js/2.96e96689.chunk.js.map": "/RNandFlutter/static/js/2.96e96689.chunk.js.map",
+    "index.html": "/RNandFlutter/index.html",
+    "precache-manifest.c48ae47ee4f61036e61031e90459df2e.js": "/RNandFlutter/precache-manifest.c48ae47ee4f61036e61031e90459df2e.js",
+    "service-worker.js": "/RNandFlutter/service-worker.js",
+    "static/css/main.8c5550ab.chunk.css.map": "/RNandFlutter/static/css/main.8c5550ab.chunk.css.map",
+    "static/js/2.96e96689.chunk.js.LICENSE.txt": "/RNandFlutter/static/js/2.96e96689.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/RNandFlutter/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.764a674e.js",
+    "static/js/2.96e96689.chunk.js",
+    "static/css/main.8c5550ab.chunk.css",
+    "static/js/main.e9ec8afb.chunk.js"
+  ]
+}
